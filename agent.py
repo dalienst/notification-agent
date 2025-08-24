@@ -1,6 +1,3 @@
-# Note: This requires playwright installed (pip install playwright) and browser installed (playwright install).
-# For demonstration, authentication is mocked as it requires real credentials. In practice, add login steps.
-
 from playwright.sync_api import sync_playwright, TimeoutError
 import re
 import logging
