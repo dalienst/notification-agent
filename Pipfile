@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+ipykernel = "6.30.1"
+playwright = "1.54.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
